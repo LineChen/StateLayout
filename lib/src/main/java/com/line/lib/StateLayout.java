@@ -295,7 +295,10 @@ public class StateLayout extends FrameLayout {
     }
 
     public interface ViewAnimFactory {
+        @NonNull
         Animation createShowAnimation();
+        
+        @NonNull
         Animation createHideAnimation();
     }
 
