@@ -51,4 +51,8 @@ stateLayout = StateLayout.Builder.create(this)
 
 ### 效果图
 
-![pilelayout](https://github.com/LineChen/PileLayout/blob/master/screenshot/pilelayout.png)
+![1](https://github.com/LineChen/StateLayout/blob/master/s1.png)
+![1](https://github.com/LineChen/StateLayout/blob/master/s2.png)
+![1](https://github.com/LineChen/StateLayout/blob/master/s3.png)
+![1](https://github.com/LineChen/StateLayout/blob/master/s4.png)
+
